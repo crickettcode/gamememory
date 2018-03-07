@@ -1,15 +1,12 @@
+
 console.log("Up and running!");
-var cardOne="queen";
-var cardTwo="queen";
-var cardThree="king";
-var cardFour="king";
 
+var cardOne = "king";
+var cardTwo = "king";
+var cardThree = "queen";
+var cardFour = "queen";
 
-var cards= ['queen', 'queen', 'king','king'];
-var cardsInPlay= []
-var='cardOne';
-.push(cardOne);
+console.log("User flipped " + cardOne);
+console.log("User flipped " + cardFour);
 
-console.log("User flipped" + " " + cardOne);
-
-alert('Hello, friends.'); 
+ 
